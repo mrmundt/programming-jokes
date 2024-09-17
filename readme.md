@@ -20,6 +20,12 @@ Unfortunately these jokes only work if you git them.
 
 ---
 
+**Q:** What is a web developer's favorite type of tea?
+
+**A**: URL Grey
+
+---
+
 **Q:** Relationship status?
 
 **A:** I'll leave the relations to the database.
